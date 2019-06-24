@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE: Disable cell text wrapping during column resizing operations
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e102)**
+<!-- run online end -->
 
 
 <p>When end-users resize columns, cell text can become word-wrapped if a column becomes too narrow to fit cell values. You can avoid this by placing cell text into the <div> tag and disable this tag's word-wrapping. You can easily implement this using the <strong>DataItem</strong> template.<br /><br /></p>
